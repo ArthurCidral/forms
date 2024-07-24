@@ -4,4 +4,4 @@
 - *IFC - Campus Araquari*
 
 ## pense sobre isso
->"Pessoas como você, não tem pessoas, porque você é a pessoa que as pessoas tem."
+>"Não cometa o mesmo erro duas vezes, porque a segunda vez não é erro: é uma escolha."
