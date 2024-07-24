@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <main>
+        <section>
+            <h2>formulario de contato</h2>
+            <form action="#" method="get">
+                <p>
+                    <label for="nome">*Nome:</label>
+                    <input type="text" id="nome" name="nome">
+                </p>
+                <p>
+                    <label for="email">*Email:</label>
+                    <input type="email" id="email" name="email">
+                </p>
+                <p>
+                    <label for="telefone">*Telefone:</label>
+                    <input type="tell" id="telefone" name="telefone">
+                </p>
+                <p>
+                    <label for="setor">*Setor:</label>
+                    <select name="setor" id="setor">
+                        <option value="1">vendas</option>
+                        <option value="2">administração</option>
+                        <option value="3">financeiro</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="mensagem">*Mensagem:</label>
+                    <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+                </p>
+                <fieldset>
+                    <legend>comunicação urgente</legend>
+                    <label><input type="radio" name="comunicacao" value="1">Sim</label>
+                    <label><input type="radio" name="comunicacao" value="0">Não</label>
+                </fieldset>
+                <fieldset>
+                    <legend>obteve conhecimento do projeto:</legend>
+                    <label><input type="checkbox" name="conhecimento" value="1">buscador</label>
+                    <label><input type="checkbox" name="conhecimento" value="2">publicidade en vídeo</label>
+                    <label><input type="checkbox" name="conhecimento" value="3">amigos</label>
+                    <label><input type="checkbox" name="conhecimento" value="4">Email</label>
+                    <label><input type="checkbox" name="conhecimento" value="5">Outros</label>
+                </fieldset>
+                <p>
+                    <input type="reset" value="Limpar">
+                    <input type="submit" value="Enviar">
+                </p>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
