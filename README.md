@@ -3,5 +3,5 @@
 -Autor: [Arthur Cidral Garcia](https://github.com/ArthurCidral)
 - *IFC - Campus Araquari*
 
-## subtitulo
+## pense sobre isso
 >"Pessoas como você, não tem pessoas, porque você é a pessoa que as pessoas tem."
