@@ -3,5 +3,5 @@
 -Autor: [Arthur Cidral Garcia](https://github.com/ArthurCidral)
 - *IFC - Campus Araquari*
 
-## pense sobre isso
+## Reflita
 >"Não cometa o mesmo erro duas vezes, porque a segunda vez não é erro: é uma escolha."
